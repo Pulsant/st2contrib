@@ -1,0 +1,14 @@
+---
+api_host:
+  description: "The name / IP of the primary orion server."
+  type: "string"
+  required: true
+  default: "api.statuspage.io"
+page_id:
+  description: "The Page ID for use with your API Key"
+  type: "string"
+  required: true
+api_key:
+  description: "The statuspage.io API Key"
+  type: "string"
+  required: true
