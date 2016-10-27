@@ -1,0 +1,9 @@
+---
+name: statuspage_io
+description: Intergrate with the statuspage.io servrice
+keywords:
+   - statuspage.io
+   - statuspage
+version: 0.1.0
+author: Jon Middleton
+email: jon.middleton@pulsant.com
